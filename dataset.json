@@ -1,0 +1,43 @@
+"database": [
+  {
+  "user_id": "543210987",
+  "name": "MentalHealthUser",
+  "age": 25,
+  "gender": "female",
+  "diagnosed_conditions": ["anxiety", "depression"],
+  "therapy_sessions": [
+    {
+      "date": "2024-06-10",
+      "therapist": "Dr. Smith",
+      "duration_minutes": 60,
+      "notes": "Discussed coping strategies for managing anxiety triggers."
+    },
+    {
+      "date": "2024-06-17",
+      "therapist": "Dr. Smith",
+      "duration_minutes": 60,
+      "notes": "Focused on cognitive-behavioral techniques for challenging negative thoughts."
+    }
+  ],
+  "medications": [
+    {
+      "name": "Sertraline",
+      "dosage": "50mg daily",
+      "prescribing_doctor": "Dr. Johnson",
+      "start_date": "2024-05-01"
+    }
+  ],
+  "self_care_activities": [
+    {
+      "date": "2024-06-12",
+      "activity": "Meditation",
+      "duration_minutes": 20
+    },
+    {
+      "date": "2024-06-15",
+      "activity": "Journaling",
+      "duration_minutes": 30
+    }
+  ]
+}
+]
